@@ -1,1 +1,2 @@
 # Decision-Tree-model---Telecom-Churn
+A decision tree is a widely used machine learning algorithm that can be used for both classification and regression tasks. It works by splitting the data into subsets based on the value of input features, creating a tree-like structure of decisions. Each node in the tree represents a feature (or attribute), each branch represents a decision rule, and each leaf node represents an outcome.
